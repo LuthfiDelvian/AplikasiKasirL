@@ -1,0 +1,23 @@
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.exe.config
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.exe
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.pdb
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.csprojResolveAssemblyReference.cache
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormLogin.resources
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.Properties.Resources.resources
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.csproj.GenerateResource.Cache
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.exe
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.pdb
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormMenuUtama.resources
+D:\XII - RPL 1\luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormMasterKasir.resources
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.exe.config
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.exe
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.csprojResolveAssemblyReference.cache
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormLogin.resources
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormMasterKasir.resources
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.FormMenuUtama.resources
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.Properties.Resources.resources
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.csproj.GenerateResource.Cache
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.exe
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\bin\Debug\AplikasiKasirL.pdb
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.pdb
+D:\XII-RPL 1\Luthfi Delvian\AplikasiKasirL\AplikasiKasirL\obj\Debug\AplikasiKasirL.DataMasterBarang.resources
